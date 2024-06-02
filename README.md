@@ -1,3 +1,11 @@
+add next
+add shad cn - button
+two route route (root and auth)
+see main layout and other layout: main layout, root layout, auth layout
+folders under root
+  podcast dynamic route
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
   <br />
     <a href="https://youtu.be/zfAb95tJvZQ" target="_blank">
